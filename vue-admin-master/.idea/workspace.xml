@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87346563-f34e-4ecb-8ef6-82b279dd385b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-600235146">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="5" />
+          <entry key="html" value="22" />
+          <entry key="iml" value="2" />
+          <entry key="js" value="12" />
+          <entry key="json" value="2" />
+          <entry key="md" value="1" />
+          <entry key="project" value="1" />
+          <entry key="scss" value="1" />
+          <entry key="vue" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="Eclipse" value="1" />
+          <entry key="HTML" value="22" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="12" />
+          <entry key="Markdown" value="1" />
+          <entry key="SCSS" value="1" />
+          <entry key="Vue.js" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="160" />
+          <entry key="js" value="245" />
+          <entry key="vue" value="1517" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="160" />
+          <entry key="JavaScript" value="245" />
+          <entry key="Vue.js" value="1517" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/product/productType.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2436">
+              <caret line="87" column="14" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/product/product.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12852">
+              <caret line="462" column="31" selection-start-line="462" selection-start-column="31" selection-end-line="462" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/product/brand.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2520">
+              <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1792">
+              <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>file</find>
+      <find>getProducts</find>
+      <find>formatState</find>
+      <find>json</find>
+      <find>Brand</find>
+      <find>brand</find>
+      <find>sels</find>
+      <find>handleAdd</find>
+      <find>handleEdit</find>
+      <find>新增</find>
+      <find>viewPropertiesSubmit</find>
+      <find>显示属性</find>
+      <find>sku属性</find>
+      <find>script</find>
+      <find>javascript</find>
+      <find>list</find>
+      <find>string</find>
+      <find>crumb</find>
+      <find>service</find>
+      <find>queryProducts</find>
+      <find>品牌</find>
+      <find>crumbs</find>
+      <find>dialog</find>
+      <find>queryParams</find>
+      <find>on</find>
+      <find>model</find>
+      <find>skuOptions</find>
+      <find>skuOptionStrs</find>
+      <find>skus</find>
+      <find>marketPrice</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Product</replace>
+      <replace>product</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/views/Home.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/views/Login.vue" />
+        <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/src/views/product/productType.vue" />
+        <option value="$PROJECT_DIR$/src/views/product/brand.vue" />
+        <option value="$PROJECT_DIR$/src/components/editor.vue" />
+        <option value="$PROJECT_DIR$/../aigou_home/home.html" />
+        <option value="$PROJECT_DIR$/src/views/product/product.vue" />
+        <option value="$PROJECT_DIR$/../aigou_home/list.html" />
+        <option value="$PROJECT_DIR$/../aigou_home/7.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/../aigou_home/js/plugins/axios/package.json" />
+      <path value="$PROJECT_DIR$/../aigou_home/js/plugins/vue/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="70" />
+    <option name="y" value="95" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue-admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-admin-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-admin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-admin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-admin-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-admin-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563371454050" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aigou_parent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\software\idea\workspace\aigou_home" />
+      <recent name="F:\software\idea\workspace\aigou_home\js\plugins" />
+      <recent name="F:\software\idea\workspace\aigou_home\static" />
+      <recent name="F:\software\idea\workspace\vue-admin-master\src\views\product" />
+      <recent name="F:\software\idea\workspace\vue-admin-master\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\69517\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87346563-f34e-4ecb-8ef6-82b279dd385b" name="Default Changelist" comment="" />
+      <created>1557217283441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557217283441</updated>
+      <workItem from="1557217284956" duration="712000" />
+      <workItem from="1557234386710" duration="2420000" />
+      <workItem from="1557238364094" duration="67000" />
+      <workItem from="1557238452202" duration="8000" />
+      <workItem from="1557279429081" duration="3280000" />
+      <workItem from="1557310287400" duration="6188000" />
+      <workItem from="1557395117830" duration="804000" />
+      <workItem from="1557396620361" duration="276000" />
+      <workItem from="1557396911545" duration="205000" />
+      <workItem from="1557397137703" duration="3158000" />
+      <workItem from="1557494702188" duration="6461000" />
+      <workItem from="1557668750886" duration="3493000" />
+      <workItem from="1557673096600" duration="3636000" />
+      <workItem from="1557714098441" duration="1781000" />
+      <workItem from="1557826935468" duration="803000" />
+      <workItem from="1557830396564" duration="4604000" />
+      <workItem from="1557839297303" duration="12227000" />
+      <workItem from="1557885745855" duration="11817000" />
+      <workItem from="1558010435052" duration="1207000" />
+      <workItem from="1558064782301" duration="3812000" />
+      <workItem from="1558101037999" duration="1439000" />
+      <workItem from="1558187787957" duration="2580000" />
+      <workItem from="1558241077599" duration="1033000" />
+      <workItem from="1558275367880" duration="1373000" />
+      <workItem from="1558315506814" duration="7628000" />
+      <workItem from="1558344223480" duration="2620000" />
+      <workItem from="1558354059670" duration="4689000" />
+      <workItem from="1558400436343" duration="16000" />
+      <workItem from="1558414205829" duration="1731000" />
+      <workItem from="1558434644836" duration="5000000" />
+      <workItem from="1563371148582" duration="384000" />
+      <workItem from="1563371690081" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="95487000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20509383" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.14427157" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20241287" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.14427157" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/404.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/vars.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2184" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/nav1/user.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/dist/axios.js" />
+    <entry file="file://$PROJECT_DIR$/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="37" column="69" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1736">
+          <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/editor.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SelectTree.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/js/plugins/vue/src/sfc/parser.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/js/plugins/axios/lib/core/Axios.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/static/css/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/static/css/color-style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/css/color-style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/static/css/common.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="475" column="75" selection-start-line="475" selection-start-column="75" selection-end-line="475" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/list111.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="735" column="24" selection-start-line="735" selection-start-column="24" selection-end-line="735" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1285">
+          <caret line="238" column="20" selection-start-line="238" selection-start-column="20" selection-end-line="238" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="681" column="34" selection-start-line="681" selection-start-column="34" selection-end-line="681" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/order.confirm.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/ecommerce.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aigou_home/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="2081" column="42" selection-start-line="2081" selection-start-column="42" selection-end-line="2081" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/product/productType.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="87" column="14" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/product/product.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12852">
+          <caret line="462" column="31" selection-start-line="462" selection-start-column="31" selection-end-line="462" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/product/brand.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1792">
+          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>aigou_home</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
